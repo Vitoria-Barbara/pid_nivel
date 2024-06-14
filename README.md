@@ -3,4 +3,4 @@
 - Tia Portal V19
 ![main.png](assets/images/main.png).
 
-![OB_PID_CyclicInterrupt.png](assets/images/OB_PID_CyclicInterrupt.png).
+![CyclicInterrupt.png](assets/images/CyclicInterrupt.png).
